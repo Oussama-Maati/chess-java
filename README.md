@@ -1,4 +1,4 @@
-# Chess Game Controller
+# Chess Game 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Oussama-Maati/chess-java)
 [![GitHub license](https://img.shields.io/github/license/Oussama-Maati/chess-java)](LICENSE.md)
